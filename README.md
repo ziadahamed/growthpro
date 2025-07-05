@@ -1,5 +1,8 @@
 🚀 GrowthProAI – Mini Local Business Dashboard
+
+
 This project is a Full Stack Assignment for GrowthProAI internship.
+
 It simulates how small businesses might view their SEO content and Google Business data.
 
 📌 Features
@@ -11,6 +14,7 @@ It simulates how small businesses might view their SEO content and Google Busine
 ✅ Fully responsive UI using React & TailwindCSS
 
 🛠 Tech Stack
+
 Frontend: React (Vite) + Tailwind CSS
 
 Backend: Node.js + Express.js
